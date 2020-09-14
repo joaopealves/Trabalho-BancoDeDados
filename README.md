@@ -4,9 +4,9 @@
 
 <h4>
 
-2- Rodar o script da atividade1. Gerar o modelo usando engenharia reversa para entender o banco de dados
+2- Rodar o script da atividade1. Gerar o modelo usando engenharia reversa para entender o banco de dados. (✔)
 
-3 - Criar uma procedure para inserir na tabela empregados, a procedure deverá receber como parâmetro todos os dados do empregado.
+3 - Criar uma procedure para inserir na tabela empregados, a procedure deverá receber como parâmetro todos os dados do empregado. (✔)
 
 4 - Incluir 5 empregados usando a procedure, criada no exercício anterior, todos os 5 empregadados devem trabalhar departamento 'Escritório do Brasil'.
 
@@ -49,7 +49,7 @@ salario do empregado.
 
 # Objetivo do trabalho
 
-### Testar e treinar os conhecimentos na matéria de banco de dados
+### Testar e treinar os conhecimentos adquiridos na matéria de banco de dados
 
 # Desenvolvedores
 
