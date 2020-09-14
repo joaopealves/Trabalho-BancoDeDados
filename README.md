@@ -8,9 +8,9 @@
 
 3 - Criar uma procedure para inserir na tabela empregados, a procedure deverá receber como parâmetro todos os dados do empregado. (✔)
 
-4 - Incluir 5 empregados usando a procedure, criada no exercício anterior, todos os 5 empregadados devem trabalhar departamento 'Escritório do Brasil'.
+4 - Incluir 5 empregados usando a procedure, criada no exercício anterior, todos os 5 empregadados devem trabalhar departamento 'Escritório do Brasil'. (✔)
 
-5 - Criar uma procedure para inserir na tabela dependentes, a procedure deverá receber como parâmetro todos os dados dos dependentes.
+5 - Criar uma procedure para inserir na tabela dependentes, a procedure deverá receber como parâmetro todos os dados dos dependentes. (✔)
 
 6 - Incluir 5 dependentes usando a procedure, criada no exercício anterior, todos os 5 dependentes devem ser de empregados inseridos no exercício 4.
 
