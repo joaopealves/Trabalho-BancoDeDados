@@ -12,11 +12,11 @@
 
 5 - Criar uma procedure para inserir na tabela dependentes, a procedure deverá receber como parâmetro todos os dados dos dependentes. (✔)
 
-6 - Incluir 5 dependentes usando a procedure, criada no exercício anterior, todos os 5 dependentes devem ser de empregados inseridos no exercício 4.
+6 - Incluir 5 dependentes usando a procedure, criada no exercício anterior, todos os 5 dependentes devem ser de empregados inseridos no exercício 4. (✔)
 
 7 - Criar uma trigger que após deletar um empregado, os dados do empregado excluido seja gravado na tabela ex-empregado e acrescente os dados
 dt_desligamento (data que foi deletado).
-Testar a trigger e apague os empregados com matricula 207 e 208 e teste a procedure com um empregado que foi incluido no exercício 4.
+Testar a trigger e apague os empregados com matricula 207 e 208 e teste a procedure com um empregado que foi incluido no exercício 4.(✔)
 
 8 - Criar uma procedure que exiba o nome de todos os empregados que são gerentes, essa procedure não precisa de parâmetros;
 
