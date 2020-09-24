@@ -183,7 +183,16 @@ drop function contraCheque;
 
 --Item 12
 
--- Não consegui fazer
+DELIMITER $$
+		drop procedure if exists selectGerente  $$
+		create procedure selectGerente (in p_nome varchar(20))
+	begin
+		select nome,sobrenome,dt_admissao,cargo_id,gerente_mat,department_id,salario 
+		from empregados where p_nome = nome;
+	end $$
+DELIMITER ;
+
+call selectGerente ('Steven');
 
 --Item 13
 

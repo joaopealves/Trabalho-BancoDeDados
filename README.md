@@ -27,7 +27,7 @@ Testar a trigger e apague os empregados com matricula 207 e 208 e teste a proced
 11 - Criar uma função que retorne o total do salario da folha de pagamento da empresa, ou seja a soma dos salarios dos empregados.(✔)
 
 12 - Criar uma procedure que selecione o nome, sobrenome, dt_admissao em formato dd/mm/YYYY, nome do cargo, nome do gerente, nome do departamento e
-salario do empregado.(!)
+salario do empregado.(✔)
 
 13 - Criar uma procedure que conte quantos empregados tem na empresa;(✔)
 
